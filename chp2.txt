@@ -1,1 +1,6 @@
 hello washington
+
+
+goodbye washington
+
+hello new zealand
